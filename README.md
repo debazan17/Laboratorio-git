@@ -9,6 +9,8 @@ Grupo: 105.
 
 David Elías Bazán C.
 Matrícula: A01785747.
+Darío Cuahtémoc Peña mariano 
+matrícula: A01785747
 
 17 de agosto de 2023.
 
