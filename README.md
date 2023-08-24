@@ -7,11 +7,13 @@ Profr. Octavio Navarro.
 
 Grupo: 105.
 
-David Elías Bazán C.
-Matrícula: A01785747.
-Darío Cuahtémoc Peña mariano 
-matrícula: A01785747
+Alumnos:
+- David Elías Bazán C., A01785747
+- Diego Córdova Rodríguez, A01781166
+- Jerónimo Ortiz Laresgoiti, A01784793
+- Darío Cuahtémoc Peña Mariano, A01785747
 
+Fecha: 
 17 de agosto de 2023.
 
 ---
@@ -48,4 +50,3 @@ A continuación te presentaré algunos comandos útiles y su función, ya sea pa
 - **Git commit -m "Mensaje acerca de los cambios que realizaste":** Este comando va después de cada ***"git add -A"*** y se usa muy frecuentemente para indicar los cambios que se han realizado cada que subes algo al repositorio remoto. Generalmente este mensaje es corto y definido.
 - **Git push origin main:** Exporta los archivos locales al repositorio remoto.
 Los cambios hechos desde la terminal los podrás ver directamente en la pantalla de tu repositorio remoto en Github.
-
