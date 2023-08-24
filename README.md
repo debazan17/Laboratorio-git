@@ -7,9 +7,12 @@ Profr. Octavio Navarro.
 
 Grupo: 105.
 
-David Elías Bazán C.
-Matrícula: A01785747.
+Alumnos:
 
+- David Elías Bazán C., A01785747
+- Diego Córdova Rodríguez, A01781166
+
+Fecha: 
 17 de agosto de 2023.
 
 ---
