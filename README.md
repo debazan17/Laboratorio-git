@@ -10,6 +10,7 @@ Grupo: 105.
 Alumnos:
 - David Elías Bazán C., A01785747
 - Diego Córdova Rodríguez, A01781166
+- Jerónimo Ortiz Laresgoiti, A01784793
 
 Fecha: 
 17 de agosto de 2023.
