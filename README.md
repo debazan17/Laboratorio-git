@@ -11,6 +11,7 @@ Alumnos:
 - David Elías Bazán C., A01785747
 - Jerónimo Ortiz Laresgoiti, A01784793
 - Darío Cuahtémoc Peña Mariano, A01785747
+- Sebastián González Del Moral, A01786196
 
 Fecha: 
 17 de agosto de 2023.
