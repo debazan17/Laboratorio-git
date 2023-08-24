@@ -8,7 +8,6 @@ Profr. Octavio Navarro.
 Grupo: 105.
 
 Alumnos:
-
 - David Elías Bazán C., A01785747
 - Diego Córdova Rodríguez, A01781166
 
